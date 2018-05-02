@@ -121,23 +121,6 @@ function bubble_Sort($my_array)
     return $my_array;
 }
 
-
-
-class Node
-{
-    private $_i;
-
-    public function __construct($key)
-    {
-        $this->_i = $key;
-    }
-
-    public function getKey()
-    {
-        return $this->_i;
-    }
-}
-
 function selection_sort($data)
 {
     for ($i = 0; $i < count($data) - 1; $i++)

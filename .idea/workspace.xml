@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b2a88e-4574-4f74-bcc6-4ae280e9a63a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/background.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/female.php" afterPath="$PROJECT_DIR$/female.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/household.php" afterPath="$PROJECT_DIR$/household.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/male.php" afterPath="$PROJECT_DIR$/male.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,6 +18,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
               <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -48,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="household.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="household.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/household.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="79">
               <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding />
             </state>
@@ -70,6 +75,7 @@
         <option value="$PROJECT_DIR$/male.php" />
         <option value="$PROJECT_DIR$/female.php" />
         <option value="$PROJECT_DIR$/household.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
       </list>
     </option>
   </component>
@@ -141,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525289315494</updated>
-      <workItem from="1525289317082" duration="2002000" />
+      <workItem from="1525289317082" duration="2269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2002000" />
+    <option name="totallyTimeSpent" value="2269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -182,14 +188,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/male.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -208,8 +206,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/household.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="79">
           <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
           <folding />
         </state>
       </provider>
