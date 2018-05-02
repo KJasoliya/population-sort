@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>Population</title>
+<head>
+    <title>Population</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -9,23 +10,25 @@
 </head>
 <body>
 <style>
-    h1.heading {
-        font-size: 48px;
-        font-family: fantasy;
-    }
-
-    .table {
-        font-size: 18px;
-    }
-
     body {
-        /*background-image: url('./background.jpg');*/
+        background-color:#9E9E9E;
     }
 
-    .headertext {
-        text-align: center;
-        padding-top: 5%;
-        padding-bottom: 5%;
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even){background-color: #f2f2f2}
+
+    th {
+        background-color: #37474F;
+        color: white;
     }
 </style>
 
@@ -89,7 +92,7 @@ if (isset($_POST['submit']) || !isset($_POST['submit'])) {
             <th>Rank</th>
             <th>Sorting Technique</th>
             <th>Time(seconds)</th>
-            <th>Total Females</th>
+            <th>Max number of Females</th>
         </tr>
         </thead>
         <tbody>
